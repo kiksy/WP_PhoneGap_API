@@ -1,3 +1,14 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+WP_PhoneGap_API
+===============
+
+Simple WP ResfFul API Phonegap implementation
+
+Uses Zepto.js and Handlebars.js
+=======
+>>>>>>> temp
 PhoneGap
 ========
 
@@ -38,3 +49,7 @@ Directory Structure
 	  |-version ....... release version in plain text
 	  '-readme.md ..... release readme
 
+<<<<<<< HEAD
+=======
+>>>>>>> Add code
+>>>>>>> temp
